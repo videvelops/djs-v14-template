@@ -1,0 +1,32 @@
+{
+	"name": "djs-v14-template",
+	"version": "1.0.0",
+	"description": "Discord.js v14 template",
+	"main": "dist/index.js",
+	"scripts": {
+		"dev": "tsx watch src/index.ts",
+		"build": "tsc",
+		"start": "node dist/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/boolcodes/djs-v14-template.git"
+	},
+	"author": "BoolCodes",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/boolcodes/djs-v14-template/issues"
+	},
+	"homepage": "https://github.com/boolcodes/djs-v14-template#readme",
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"discord.js": "^14.13.0",
+		"dotenv": "^16.3.1",
+		"mongoose": "^7.5.2"
+	},
+	"devDependencies": {
+		"@types/node": "^20.6.4",
+		"tsx": "^3.12.10",
+		"typescript": "^5.2.2"
+	}
+}
