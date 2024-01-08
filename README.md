@@ -2,7 +2,7 @@
 
 [![GPL License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit)
 [![Discord](https://img.shields.io/discord/1188940144061993030.svg?logo=discord&colorB=7289DA&label=Support%20Server)]([https://bool.codes/discord](https://discord.gg/XdVaxXjNcH))
-[![](https://img.shields.io/badge/discord.js-v14.13.0-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/discord.js-v14.13.0-blue.svg?logo=npm)](https://npmjs.com/package/discord.js)
 
 Hey! This is is my Discord.js v14 template! This is a simple template written in TypeScript for anyone to download and use!
 
